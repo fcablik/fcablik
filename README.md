@@ -10,7 +10,8 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 
 <br/>
 
-**Custom Apps Stack:**<br/>
+**Custom Apps Stack:**
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
@@ -26,7 +27,8 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 
 <br/>
 
-**E-commerce Stack:**<br/>
+**E-commerce Stack:**
+
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -43,7 +45,8 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 
 <br/>
 
-**IDEs:**<br/>
+**IDEs:**
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
