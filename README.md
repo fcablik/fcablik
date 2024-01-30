@@ -5,7 +5,7 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 - 🌱 I’m currently & still learning Remix.run, TypeScript & prisma w/ SQLite.
 - 👯 I’m looking to collaborate on Remix.run projects.
 - 💬 Ask me about anything..
-- 📫 How to reach me: web: [wochlife.com](https://wochlife.com), ig: [https://www.instagram.com/filipcablik/](@filipcablik), linkedin: [https://www.linkedin.com/in/filipcablik/](@filipcablik)
+- 📫 How to reach me: web: [wochlife.com](https://wochlife.com), ig: [@filipcablik](https://www.instagram.com/filipcablik/), linkedin: [@filipcablik](https://www.linkedin.com/in/filipcablik/)
 - ⚡ Fun fact: I'd very randomly started to learn coding, before I even knew what it was, and why it could make my life better. Started in free time, the 1st month of college. After 2 months, the decision to drop out was inevitable. Never looked back since. Life's been great as a Web Developer. 😊
 
 <br/>
