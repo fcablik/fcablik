@@ -10,7 +10,7 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 
 <br/>
 
-**Custom Apps Stack:**
+**My Custom Apps Stack:**
 
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -29,7 +29,7 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 
 <br/>
 
-**E-commerce Stack:**
+**My Past E-commerce Projects Stack:**
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -49,7 +49,7 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 
 <br/>
 
-**IDEs:**
+**My IDEs:**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
