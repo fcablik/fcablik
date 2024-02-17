@@ -50,7 +50,7 @@ I like to discover and learn new tech, frameworks & services. Continuous progres
 
 <br/>
 
-**My Past E-commerce Projects Stack:**
+**E-commerce Projects Stack:**
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
