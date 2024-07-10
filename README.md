@@ -1,14 +1,5 @@
-### Hey, I'm Filip.👋 A very passionate Fullstack Web Developer.
-I like to discover and learn new tech, frameworks & services. Continuous progress, learning and small steps ahead is what makes my job and life so awesome. I love to solve problems, in both logical and graphical ways.
+### Hey, I'm Filip.👋
 
-- 🔭 I’m currently working on perfecting my Full Stack development skills.
-- 🌱 I’m currently & still learning Remix.run, TypeScript & prisma w/ SQLite.
-- 👯 I’m looking to collaborate on Remix.run projects.
-- 💬 Ask me about anything..
-- 📫 How to reach me: web: ig: [@filipcablik](https://www.instagram.com/filipcablik/), linkedin: [@filipcablik](https://www.linkedin.com/in/filipcablik/)
-- ⚡ Fun fact: I'd very randomly started to learn coding, before I even knew what it was, and why it could make my life better. Started in free time, the 1st month of college. After 2 months, the decision to drop out was inevitable. Never looked back since. Life's been great as a Web Developer. 😊
-
-<br/>
 
 **My Custom Apps Stack:**
 
